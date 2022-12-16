@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T15:40:55.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="inDlRGHW80gjTIxupmW9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T15:41:04.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="qBzA1CMsn5qN7TedpiLp" type="github">
   <diagram id="dZcQ6zdjNLxTc-nmPy3E" name="Страница 1">
-    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="khDRwYUKxkH9HARfMoj--1" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;Сайт с информационной системой&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="30" width="1140" height="120" as="geometry" />
+          <mxGeometry x="220" y="70" width="1140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="khDRwYUKxkH9HARfMoj--2" value="Выбор места постройки" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="1140" height="850" as="geometry" />
