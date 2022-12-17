@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T05:20:01.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LweEY-eYlQR-et4jZ1sX" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T05:21:07.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pvDuedakmt5WGS0k9dK-" version="20.7.4" type="github">
   <diagram id="evIK6hi9-H3vUto9CSPa" name="Страница 1">
-    <mxGraphModel dx="1687" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,10 +111,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-31" value="Получение процента выгодности по формуле" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="700" width="150" height="100" as="geometry" />
+          <mxGeometry x="850" y="665" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-34" value="Смена категории заведения" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="810" width="120" height="80" as="geometry" />
+          <mxGeometry x="630" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R_8RCk8jp2wtUIdCuoWz-31" target="R_8RCk8jp2wtUIdCuoWz-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-36" value="Окончательный выбор" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="1040" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R_8RCk8jp2wtUIdCuoWz-31" target="R_8RCk8jp2wtUIdCuoWz-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -144,7 +144,7 @@
           <mxGeometry x="640" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-44" value="include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="770" y="735" width="60" height="30" as="geometry" />
+          <mxGeometry x="770" y="720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-45" value="include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1050" y="650" width="60" height="30" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry x="580" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o1isj-nAHH9bJfHxb-3l-8" value="include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="810" width="60" height="30" as="geometry" />
+          <mxGeometry x="960" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o1isj-nAHH9bJfHxb-3l-9" value="include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="330" width="60" height="30" as="geometry" />
