@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T07:06:08.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yniz7j7kUnYlDfsNHL8Y" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-24T07:33:51.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KvQkI8bSCVN-W8iZGCGq" version="20.7.4" type="github">
   <diagram id="evIK6hi9-H3vUto9CSPa" name="Страница 1">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -104,10 +104,13 @@
         <mxCell id="5BoTdSPKw78EXAaD1zw3-8" value="Написать отзыв" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="830" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5BoTdSPKw78EXAaD1zw3-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.307;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.667;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R_8RCk8jp2wtUIdCuoWz-31" target="5BoTdSPKw78EXAaD1zw3-8">
+        <mxCell id="5BoTdSPKw78EXAaD1zw3-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.667;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R_8RCk8jp2wtUIdCuoWz-1" target="5BoTdSPKw78EXAaD1zw3-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="650" as="sourcePoint" />
             <mxPoint x="990" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="790" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
