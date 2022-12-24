@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T07:35:42.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3maHyHQp7w3TfMzol893" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-24T07:36:09.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="poguwtMFhePlkBu4latd" version="20.7.4" type="github">
   <diagram id="evIK6hi9-H3vUto9CSPa" name="Страница 1">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-25" value="Найти место для постройки заведения общественного питания" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="250" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o1isj-nAHH9bJfHxb-3l-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.051;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R_8RCk8jp2wtUIdCuoWz-28" target="R_8RCk8jp2wtUIdCuoWz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
         <mxCell id="R_8RCk8jp2wtUIdCuoWz-28" value="Ввести конкретный адрес" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R_8RCk8jp2wtUIdCuoWz-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.05;entryY=0.213;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R_8RCk8jp2wtUIdCuoWz-25" edge="1" target="R_8RCk8jp2wtUIdCuoWz-28">
+        <mxCell id="R_8RCk8jp2wtUIdCuoWz-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R_8RCk8jp2wtUIdCuoWz-25" edge="1" target="R_8RCk8jp2wtUIdCuoWz-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="400" as="sourcePoint" />
             <mxPoint x="730" y="330" as="targetPoint" />
